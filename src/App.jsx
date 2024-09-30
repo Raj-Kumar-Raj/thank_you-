@@ -75,7 +75,7 @@ export default function ThankYouPage() {
         <ThankYouCard
           icon={<Heart className="w-8 h-8 text-red-500" />}
           title="Gratitude"
-          content="A huge thank you to all my teachers of Apna collage, especially Shardha Ma'am, for their invaluable guidance and support."
+          content="A huge thank you to all my teachers of Apna collage, especially Shradha Khapra Ma'am, for their invaluable guidance and support."
         />
         <ThankYouCard
           icon={<GraduationCap className="w-8 h-8 text-blue-500" />}
